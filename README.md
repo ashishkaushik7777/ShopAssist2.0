@@ -3,7 +3,7 @@
 Conversational Laptop Recommendation System using OpenAI function calling feature
 
 
-1. **Introduction****
+1. **Introduction**
 
 ShopAssistAI 2.0 is a  conversational application designed to assist users in finding the perfect laptop based on their needs. It leverages the power of Generative Artificial Intelligence (AI) to guide users through a conversation, gather their preferences, and recommend suitable laptops from a database.
 
